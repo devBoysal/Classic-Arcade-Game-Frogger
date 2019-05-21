@@ -6,13 +6,13 @@
 
 - [Instructions](#instructions)
 
-##Introduction
+## Introduction
 
 This is the 3rd javascript project from the Udacity Front-End Web Developer "Nanodegree" short course
 
 Another enjoyable project for myself, pushing my javascript knowledge and experience further and further 
 
-If You'd like to play a live version, please click <a href="url">right here</a>
+If You'd like to play a live version, please click <a href="https://devboysal.github.io/Classic-Arcade-Game-Frogger/">RIGHT HERE</a>
 
 
 ## Instructions
