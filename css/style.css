@@ -1,0 +1,72 @@
+/* Main Game Styles */
+
+body {
+  text-align: center;
+  background-color: darkslategray;
+}
+
+.scoreContainer {
+  color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  max-width: 505px;
+  margin-top: 25px;
+  margin: auto;
+}
+
+.lives {
+  text-align: left;
+  float: left;
+  margin-left: 100px;
+}
+
+.score {
+  text-align: right;
+  float: right;
+  margin-right: 100px;
+}
+
+/* MODAL */
+
+.gameRestart {
+  font-family: 'Courier New', Courier, monospace;
+  color: antiquewhite;
+  font-weight: bold;
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+}
+
+.gameRestart.visible {
+  display: flex;
+  flex-direction: column;
+  animation: modalDisplay 500ms forwards;
+}
+
+@keyframes modalDisplay {
+    from {
+      background-color: rgba(0, 0, 0, 0);
+      font-size: 0;
+    }
+  
+    to {
+      font-size: 50px;
+      background-color: rgba(0, 0, 0, 0.8);
+    }
+}
+
+#clickRestart {
+    color: firebrick;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.modalInfo {
+    margin-top: 25px;
+}
