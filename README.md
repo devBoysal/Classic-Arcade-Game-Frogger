@@ -12,7 +12,7 @@ This is the 3rd javascript project from the Udacity Front-End Web Developer "Nan
 
 Another enjoyable project for myself, pushing my javascript knowledge and experience further and further 
 
-If You'd like to play a live version, please click <a href="https://devboysal.github.io/Classic-Arcade-Game-Frogger/">RIGHT HERE</a>
+If you'd like to play a live version, please click <a href="https://devboysal.github.io/Classic-Arcade-Game-Frogger/">RIGHT HERE</a>
 
 
 ## Instructions
@@ -23,7 +23,7 @@ To Play this game locally:
 - Open index.html in your preferred browser (make sure your browser is to date)
 - Alternatively, click the "right here" link above to play live
 
-This game is a clone of the classic arcade game "Frooger"
+This game is a clone of the classic arcade game "Frogger"
 
 - You must score as many points as possible before running out of lives.
 - 100pts to reach the end
