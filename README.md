@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This is the 3rd javascript project from the Udacity Front-End Web Developer "Nanodegree" short course
+This is the 3rd javascript project from the Udacity Front-End Web Developer short course
 
 Another enjoyable project for myself, pushing my javascript knowledge and experience further and further 
 
