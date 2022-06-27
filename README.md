@@ -8,20 +8,15 @@
 
 ## Introduction
 
-This is the 3rd javascript project from the Udacity Front-End Web Developer short course
-
-Another enjoyable project for myself, pushing my javascript knowledge and experience further and further 
-
 If you'd like to play a live version, please click <a href="https://devboysal.github.io/Classic-Arcade-Game-Frogger/">RIGHT HERE</a>
-
 
 ## Instructions
 
 To Play this game locally:
 
-- Download these files by simply clicking "clone or Download" above.
-- Open index.html in your preferred browser (make sure your browser is to date)
-- Alternatively, click the "right here" link above to play live
+- Clone this project to your machine
+- Open index.html in your preferred browser
+- OR, follow the link above and play in the browser
 
 This game is a clone of the classic arcade game "Frogger"
 
